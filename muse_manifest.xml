@@ -1,0 +1,82 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="otravistafilms.com.co" resolutions="1x" timestamp="1501528376285">
+  <folder name="css">
+    <file name="site_global.css" crc="28918160"/>
+    <file name="master_a-p_g_-maestra.css" crc="267118554" ref="index:quienes-somos:rental:contacto:portafolio:que-hacemos:promociones:equipos"/>
+    <file name="index.css" crc="4027350888" ref="index"/>
+    <file name="quienes-somos.css" crc="4294920701" ref="quienes-somos"/>
+    <file name="rental.css" crc="387891671" ref="rental"/>
+    <file name="contacto.css" crc="175082585" ref="contacto"/>
+    <file name="portafolio.css" crc="4021157762" ref="portafolio"/>
+    <file name="que-hacemos.css" crc="484154885" ref="que-hacemos"/>
+    <file name="promociones.css" crc="4208995176" ref="promociones"/>
+    <file name="equipos.css" crc="4018189846" ref="equipos"/>
+  </folder>
+  <folder name="assets">
+    <file name="ov-4k-design.psd" crc="3774243723" seo="true" mt="1497332886000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:quienes-somos:que-hacemos:equipos:promociones:portafolio:contacto:rental"/>
+    <file name="museutils.js" crc="183364071" ref="index:quienes-somos:que-hacemos:equipos:promociones:portafolio:contacto:rental"/>
+    <file name="webpro.js" crc="3803554875" ref="index:quienes-somos:que-hacemos:equipos:portafolio"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index:quienes-somos:que-hacemos:equipos:portafolio"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index:quienes-somos:que-hacemos:equipos:portafolio"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index:quienes-somos:que-hacemos:equipos:portafolio"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:quienes-somos:que-hacemos:equipos:promociones:portafolio:contacto:rental"/>
+  </folder>
+  <folder name="images">
+    <file name="ov - negro 200x200 .png" crc="3938915529" seo="true" ref="index:quienes-somos:que-hacemos:equipos:promociones:portafolio:contacto:rental"/>
+    <file name="dsc00683.jpg" crc="3953770302" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:quienes-somos:que-hacemos:equipos:portafolio"/>
+    <file name="img_0930-crop-u234.jpg" crc="444087799" ref="index"/>
+    <file name="dji_0022.jpg" crc="94281434" seo="true" ref="index"/>
+    <file name="c0113t01.jpg" crc="4079749967" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:quienes-somos:que-hacemos:equipos:portafolio"/>
+    <file name="logotipo fondo negro png-u271.png" crc="447362713" ref="index"/>
+    <file name="cuadro-img_9787.png" crc="128957876" ref="index"/>
+    <file name="cuadro-quienes somos.png" crc="480266895" ref="index"/>
+    <file name="cuadro-img_1321 copy.png" crc="533688864" ref="index"/>
+    <file name="cuadro-rental y equipos.png" crc="3889226692" ref="index"/>
+    <file name="cuadro-dji_0037.png" crc="345897391" ref="index"/>
+    <file name="cuadro-portafolio.png" crc="3896785381" ref="index"/>
+    <file name="logotipo png.png" crc="213520387" seo="true" ref="index:quienes-somos:que-hacemos:equipos:promociones:portafolio:contacto:rental"/>
+    <file name="pajaro-del-gorjeo-en-un-cuadrado-redondeado_318-41054.png" crc="4197238215" seo="true" ref="index:quienes-somos:que-hacemos:equipos:promociones:portafolio:contacto:rental"/>
+    <file name="logo-youtube_318-31926.jpg" crc="498396335" seo="true" ref="index:quienes-somos:que-hacemos:equipos:promociones:portafolio:contacto:rental"/>
+    <file name="glyph-logo_may2016_200.png" crc="4212801475" seo="true" ref="index:quienes-somos:que-hacemos:equipos:promociones:portafolio:contacto:rental"/>
+    <file name="37409.png" crc="371618623" seo="true" ref="index:quienes-somos:que-hacemos:equipos:promociones:portafolio:contacto:rental"/>
+    <file name="img_1364-copy.jpg" crc="3865359162" seo="true" ref="quienes-somos"/>
+    <file name="img_1378-copy.jpg" crc="4019004674" seo="true" ref="quienes-somos"/>
+    <file name="20150101_043100a.jpg" crc="4154222822" seo="true" ref="quienes-somos"/>
+    <file name="c0113t012.jpg" crc="3965075925" seo="true" ref="quienes-somos"/>
+    <file name="dsc_4717 copy.jpg" crc="4019646852" seo="true" ref="quienes-somos"/>
+    <file name="cactus485x323.jpg" crc="4057877503" seo="true" ref="que-hacemos"/>
+    <file name="road485x323.jpg" crc="3957789984" seo="true" ref="que-hacemos"/>
+    <file name="trees485x323.jpg" crc="3920870455" seo="true" ref="que-hacemos"/>
+    <file name="img_1308-copy.jpg" crc="194352803" seo="true" ref="equipos"/>
+    <file name="img_1320-copy.jpg" crc="446523824" seo="true" ref="equipos"/>
+    <file name="img_1326-copy.jpg" crc="168959760" seo="true" ref="equipos"/>
+    <file name="img_1333-copy.jpg" crc="3847254066" seo="true" ref="equipos"/>
+    <file name="img_1335-copy.jpg" crc="224388892" seo="true" ref="equipos"/>
+    <file name="img_1339-copy.jpg" crc="397912348" seo="true" ref="equipos"/>
+    <file name="img_1308-copy68x45.jpg" crc="432419861" seo="true" ref="equipos"/>
+    <file name="img_1320-copy68x45.jpg" crc="171416847" seo="true" ref="equipos"/>
+    <file name="img_1326-copy68x45.jpg" crc="4219508675" seo="true" ref="equipos"/>
+    <file name="img_1333-copy68x45.jpg" crc="287854698" seo="true" ref="equipos"/>
+    <file name="img_1335-copy68x45.jpg" crc="4015129598" seo="true" ref="equipos"/>
+    <file name="img_1339-copy68x45.jpg" crc="4166766820" seo="true" ref="equipos"/>
+    <file name="cactus.jpg" crc="4203176078" seo="true" ref="portafolio"/>
+    <file name="road.jpg" crc="4032504927" seo="true" ref="portafolio"/>
+    <file name="trees.jpg" crc="262675519" seo="true" ref="portafolio"/>
+    <file name="cactus68x45.jpg" crc="381701099" seo="true" ref="portafolio"/>
+    <file name="road68x45.jpg" crc="4220447013" seo="true" ref="portafolio"/>
+    <file name="trees68x45.jpg" crc="4146958310" seo="true" ref="portafolio"/>
+  </folder>
+  <file name="index.html" crc="306950777" seo="true" mt="1501115598396" redirect="true"/>
+  <file name="quienes-somos.html" crc="333434848" seo="true" mt="1501113977206" redirect="true"/>
+  <file name="que-hacemos.html" crc="4144815223" seo="true" mt="1501363695134" redirect="true"/>
+  <file name="equipos.html" crc="360922663" seo="true" mt="1501114468739" redirect="true"/>
+  <file name="promociones.html" crc="302080042" seo="true" mt="1501113556352" redirect="true"/>
+  <file name="portafolio.html" crc="4168199115" seo="true" mt="1501113725092" redirect="true"/>
+  <file name="contacto.html" crc="4111056930" seo="true" mt="1501114496519" redirect="true"/>
+  <file name="rental.html" crc="4004923839" seo="true" mt="1501113330958" redirect="true"/>
+</manifest>

@@ -1,0 +1,43 @@
+#u75
+{
+	background-color: #FFFFFF;
+	opacity: 0.8;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	filter: alpha(opacity=80);
+	position: fixed;
+}
+
+#u76
+{
+	background-color: transparent;
+	position: fixed;
+}
+
+#u82-4,#u83-4,#u84-4,#u85-4,#u86-4,#u87-4,#u88-4
+{
+	background-color: transparent;
+	line-height: 19px;
+	position: fixed;
+}
+
+#u91
+{
+	background-color: #000000;
+	opacity: 0.06;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=6)";
+	filter: alpha(opacity=6);
+}
+
+#u122-4
+{
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+}
+
+#u92,#u114,#u109,#u104,#u98
+{
+	background-color: transparent;
+	position: relative;
+}
+
